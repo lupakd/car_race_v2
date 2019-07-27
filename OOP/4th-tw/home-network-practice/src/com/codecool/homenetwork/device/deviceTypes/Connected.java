@@ -9,7 +9,7 @@ public class Connected extends Device {
         super(age, batteryLife);
     }
 
-    public int getNumberOfConnectedDivices(HomeNetwork hn) {
+    public int getNumberOfConnectedDevices(HomeNetwork hn) {
         int numOfConn = 0;
         for (Device dev : hn.getListOfDevices()) {
             if (dev instanceof Connected) {
@@ -20,6 +20,6 @@ public class Connected extends Device {
     }
 
     public int getRemainingPower(HomeNetwork hn) {
-        return this.batteryLife = (batteryLife - (7 * this.age)) + getNumberOfConnectedDivices(hn) * 20;
+        return this.batteryLife = (batteryLife - (7 * this.age)) + getNumberOfConnectedDevices(hn) * 20;
     }
 }
