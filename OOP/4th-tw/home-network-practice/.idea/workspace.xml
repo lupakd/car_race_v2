@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49fc28d9-23f7-4fb5-91ba-6173857da636" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/WorkPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/GroupLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/OfficeWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/SalesPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/2nd-pa/src/com/codecool/workplace/employee/WorkPlaceEmployeeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/skilled-company-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/SkilledCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/Electrician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/GasFitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/Plumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/SkilledWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/WorkerWithDanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/workernecessities/Experience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/skilled-company-practice/src/com/codecool/company/skilledworkers/workernecessities/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/InMemoryPhoneNumberRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/MobileNoRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/TaxiCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/car/SelfDriving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/car/carwithdriver/CarWithDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/car/carwithdriver/Electric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/car/carwithdriver/Gasoline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/src/com/codecool/taxicompany/driver/Experience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5th-tw/taxi-company-practice/taxi-company-practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/Connected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/Connected.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/DevicesWithScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/DevicesWithScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/ScreenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/ScreenSize.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +55,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/DeviceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="361">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="427">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -43,8 +79,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/HomeNetwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,8 +92,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/Device.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="361">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/Connected.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="254">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -71,16 +117,22 @@
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/ScreenSize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/DevicesWithScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="95">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -88,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="368">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Smart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -120,11 +172,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/DeviceTest.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/ScreenSize.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/DevicesWithScreen.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/Connected.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codecool/homenetwork/device/Device.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="203" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -223,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeviceTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codecool.Main" />
       <module name="home-network-practice" />
@@ -254,8 +312,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DeviceTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DeviceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,9 +334,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564255340531</updated>
-      <workItem from="1564255357605" duration="194000" />
+      <workItem from="1564255357605" duration="11388000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="almost complete implementation,&#10;Unit test from Device class.">
+      <created>1564255719532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564255719533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -288,14 +353,21 @@
     <history-entry file="DeviceTest - 2019.07.27 at 21h 13m 33s.xml">
       <configuration name="DeviceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DeviceTest - 2019.07.29 at 15h 09m 05s.xml">
+      <configuration name="DeviceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeviceTest - 2019.07.29 at 15h 33m 14s.xml">
+      <configuration name="DeviceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1176000" />
+    <option name="totallyTimeSpent" value="12370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" sideWeight="0.50063694" side_tool="true" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -305,7 +377,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31847134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.277707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/DeviceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -350,57 +422,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="427">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Smart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/HomeNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/Device.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="361">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/Connected.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="254">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/ScreenSize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/DevicesWithScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Normal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codecool/homenetwork/device/deviceTypes/DevicesWithScreen/Smart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="95">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

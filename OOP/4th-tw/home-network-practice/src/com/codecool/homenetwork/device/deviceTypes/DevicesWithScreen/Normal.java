@@ -4,7 +4,6 @@ import com.codecool.homenetwork.device.deviceTypes.ScreenSize;
 
 public class Normal extends DevicesWithScreen {
 
-
     private int yearOfManufacturing;
 
     public Normal(int age, int batteryLife, int year, ScreenSize size) {
@@ -19,6 +18,5 @@ public class Normal extends DevicesWithScreen {
         } else {
             return batteryLifeBase / 2;
         }
-
     }
 }

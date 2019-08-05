@@ -13,20 +13,21 @@ public class Main {
 
         hn.addDevice(new Normal(10, 1000, 2001, ScreenSize.EDTV));
         hn.addDevice(new Normal(10, 1000, 1999, ScreenSize.EDTV));
-        hn.addDevice(new Connected(1, 100));
-        hn.addDevice(new Connected(10, 100));
-        hn.addDevice(new Connected(5, 100));
+        hn.addDevice(new Connected(1, 100, hn));
+        hn.addDevice(new Connected(10, 100, hn));
+        hn.addDevice(new Connected(5, 100, hn));
         hn.addDevice(new Smart(1, 80, "SmartDevice1", ScreenSize.FULLHD));
         hn.addDevice(new Smart(2, 70, "SmartDevice2", ScreenSize.UHD));
         hn.addDevice(new Smart(3, 60, "SmartDevice3", ScreenSize.HD));
 
         for (Device dev : hn.getListOfDevices()) {
-            System.out.println(dev.getClass().getSimpleName());
-            if (dev instanceof Connected) {
-                System.out.println(((Connected) dev).getRemainingPower(hn));
-            } else {
-                System.out.println(dev.getRemainingPower());
-            }
+            System.out.println(dev.toString());
+
+             //System.out.println(dev.getClass().getSimpleName());
+             //System.out.println(dev.getRemainingPower(hn));
+             //if (dev instanceof Connected) {
+             //    System.out.println(((Connected) dev).getNumberOfConnectedDevices());
+             //}
         }
     }
 

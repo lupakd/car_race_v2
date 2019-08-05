@@ -5,7 +5,6 @@ import com.codecool.homenetwork.device.deviceTypes.ScreenSize;
 
 public abstract class DevicesWithScreen extends Device {
 
-
     private ScreenSize screenSize;
 
     DevicesWithScreen(int age, int batteryLife, ScreenSize size) {

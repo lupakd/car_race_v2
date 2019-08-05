@@ -7,11 +7,11 @@ public enum ScreenSize {
     FULLHD(15),
     UHD(20);
 
+    private int batteryDrain;
+
     public int getBatteryDrain() {
         return batteryDrain;
     }
-
-    private int batteryDrain;
 
     ScreenSize(int batteryDrain) {
         this.batteryDrain = batteryDrain;

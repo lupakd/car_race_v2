@@ -1,5 +1,6 @@
 package com.codecool.homenetwork.device;
 
+
 public abstract class Device {
 
     protected int age;
@@ -15,4 +16,9 @@ public abstract class Device {
         return this.batteryLife;
     }
 
+
+    @Override
+    public String toString() {
+        return getClass().getSimpleName() + "\nRemaining power: " + getRemainingPower();
+    }
 }

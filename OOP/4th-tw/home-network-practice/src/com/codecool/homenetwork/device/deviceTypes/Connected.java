@@ -5,11 +5,21 @@ import com.codecool.homenetwork.device.Device;
 
 public class Connected extends Device {
 
-    public Connected(int age, int batteryLife) {
+
+    private final HomeNetwork hn;
+
+    public Connected(int age, int batteryLife, HomeNetwork hn) {
         super(age, batteryLife);
+        this.hn = hn;
     }
 
-    public int getNumberOfConnectedDevices(HomeNetwork hn) {
+    @Override
+    public String toString() {
+        return super.toString() +
+                "\nNumber of connected devices: " + getNumberOfConnectedDevices();
+    }
+
+    public int getNumberOfConnectedDevices() {
         int numOfConn = 0;
         for (Device dev : hn.getListOfDevices()) {
             if (dev instanceof Connected) {
@@ -19,7 +29,7 @@ public class Connected extends Device {
         return numOfConn - 1;
     }
 
-    public int getRemainingPower(HomeNetwork hn) {
-        return this.batteryLife = (batteryLife - (7 * this.age)) + getNumberOfConnectedDevices(hn) * 20;
+    public int getRemainingPower() {
+        return this.batteryLife = (batteryLife - (7 * this.age)) + getNumberOfConnectedDevices() * 20;
     }
 }
